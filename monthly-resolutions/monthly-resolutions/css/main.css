@@ -1,0 +1,17 @@
+#content #main h2{
+    margin-left: 30px;
+}
+#content #main p, img{
+    margin-left: 30px;
+}
+
+#main{
+    float: left;
+    width: 700px;
+    background: white;
+    margin-right: 15px;
+    padding-bottom: 70px;
+}
+#main p{
+    font-size: 13px;
+}

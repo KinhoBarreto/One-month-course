@@ -1,0 +1,7 @@
+#content #bottom{
+    padding: 20px;
+}
+#content #bottom a{
+    text-decoration: none;
+    color: orangered;
+}

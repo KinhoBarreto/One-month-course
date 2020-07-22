@@ -1,0 +1,35 @@
+#content #sidebar h4{
+    margin-left: 30px;
+    font-weight: normal;
+}
+#sidebar{
+    float: left;
+    background: white;
+    width: 300px;
+    padding-bottom: 20px;
+}
+#sidebar img{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 150px;
+}
+
+#sidebar blockquote, h3{
+    margin-left: 30px;
+}
+#sidebar li{
+    margin-left: 73px;
+}
+#sidebar h2{
+    margin-left: 30px;
+}
+#sidebar ul{
+    padding-left: 0px;
+}
+#sidebar a{
+    text-decoration: none;
+    color: red;
+}
+#content #sidebar blockquote p{
+    margin-bottom: 20px;
+}
