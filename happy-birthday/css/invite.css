@@ -1,0 +1,32 @@
+
+#container #invite {
+    width: 100%;
+    margin: auto;
+    padding-top: 60px;
+    background: #DDD;
+}
+#container #invite img{
+    float: left;
+}
+#container #invite p{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+#container #invite #contact{
+    display: block;
+}
+#container #invite #contact a{
+    display: flex;
+    justify-content: center;
+    margin: 12px;
+    margin-top: 18px;
+}
+#container #invite #contact iframe{
+    margin-top: 40px;
+    width: 600px;
+}
+#container #invite .adress{
+    margin-bottom: -4px;
+    margin-top: -4px;
+}

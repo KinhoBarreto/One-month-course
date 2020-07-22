@@ -1,0 +1,19 @@
+#container #main{
+  background: white;
+}
+#container #main img{
+    display: flex;
+    margin: auto;
+    float: right;
+    margin-right: 40px;
+    margin-left: 15px;
+    
+  }
+  #container #main p{
+    margin: 40px;
+    margin-left: 50px;
+}
+#container #main p#bottom{
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
